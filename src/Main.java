@@ -63,9 +63,10 @@ public class Main {
         }
 
         // task 6
+        System.out.println("task 6");
         int places = 102;
         int sitplaces = 60;
-        int people = 80;
+        int people = 110;
         if (people < sitplaces) {
             System.out.println("В вагоне есть сидячие места");
         }
